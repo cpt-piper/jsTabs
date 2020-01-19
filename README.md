@@ -1,0 +1,2 @@
+# jsTabs
+Simple javascript tabs
